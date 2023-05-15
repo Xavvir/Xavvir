@@ -21,6 +21,6 @@ Olá 👋
 
 ### Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xavvir&show_icons=true&theme=black)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xavvir&show_icons=true&theme=white)
 ### % de uso
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavvir&langs_count=8)](https://github.com/Xavvir/github-readme-stats)
