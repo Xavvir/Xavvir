@@ -6,9 +6,15 @@
   </h1>
   
   <h4 align="center">
-    Sou aspirante a desenvolvedor Front End.
+    Aspirante a desenvolvedor Front End.
   </h4>
   <br>
+  
+<div align="center">
+<br><p align="centre"><b>Contador de visitantes 👽 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Xavvir}/count.svg" /></p> 
+<br>
+</div>
   
 </div>
 <div align="center">
