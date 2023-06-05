@@ -3,12 +3,7 @@
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/leandro-xavier-7a2569165/">Leandro Xavier</a>
-  </h1>
-  
-  <h4 align="center">
-    Aspirante a desenvolvedor Front End.
-  </h4>
-  <br>
+  </h1> 
   
 <div align="center">
 <br><p align="centre"><b>Contador de visitantes 👽 </b></p>  
